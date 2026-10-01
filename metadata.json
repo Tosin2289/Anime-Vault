@@ -1,0 +1,6 @@
+{
+  "name": "AnimeVault",
+  "description": "Personal anime library, watch-progress tracker, release calendar, and personalized recommendation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
